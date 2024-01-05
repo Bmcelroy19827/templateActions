@@ -62,10 +62,10 @@ jobs:
           sleep 5
       - run: |
           echo "Step 3..."
-          sleep       
+          sleep 5       
       - run: |
           echo "Step 4..."
-          sleep       
+          sleep 5      
       - run: |
           echo "Step 5..."
           sleep 5
